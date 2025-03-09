@@ -1,13 +1,8 @@
 # E-commerce Game Store
 
-Website ini dibuat untuk Ujian Tengah Semester (UTS) mata kuliah Keamanan Informasi Prodi Informatika Semester 4 Universitas Siliwangi yang diajarkan oleh Pak Alam. Tujuan dari proyek ini adalah untuk mencari bug atau celah keamanan di sebuah sistem dan memperbaikinya menggunakan Web Application Firewall (WAF) modsecurity2.
-
 ## Deskripsi Proyek
 
-Proyek ini adalah sebuah website e-commerce yang menjual berbagai macam game. Sebagai bagian dari UTS, mahasiswa diharapkan untuk:
-
-1. Mengidentifikasi bug atau celah keamanan yang ada di dalam sistem.
-2. Memperbaiki bug atau celah tersebut menggunakan WAF modsecurity2.
+Proyek ini adalah sebuah website e-commerce yang menjual berbagai macam game. 
 
 ## Teknologi yang Digunakan
 
