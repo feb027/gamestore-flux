@@ -23,6 +23,3 @@ Proyek ini adalah sebuah website e-commerce yang menjual berbagai macam game. Se
 3. Konfigurasi Apache untuk menjalankan website ini.
 4. Instal dan konfigurasi modsecurity2 untuk melindungi aplikasi.
 
-## Kontribusi
-
-Jika Anda menemukan bug atau celah keamanan, silakan laporkan melalui issue di repository ini. Kontribusi dalam bentuk pull request juga sangat dihargai.
